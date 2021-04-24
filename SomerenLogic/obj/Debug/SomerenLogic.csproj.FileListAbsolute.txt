@@ -1,0 +1,173 @@
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenModel.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\obj\Debug\SomerenLogic.csprojResolveAssemblyReference.cache
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\ChapeauLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.csprojResolveAssemblyReference.cache
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Thijs Otter\Desktop\INholland\Project Databases\2018-2019\Someren1819\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\sarpo\Downloads\Someren1920F (2)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren120\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\final\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\sarpo\Downloads\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Week 4 Project\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\ardg\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Someren1920F (6)\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\erjan\Desktop\Week 4 Final work\FinalProjectDatabase\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\tsagl\Downloads\Group 7 Week 4\Group 7 Week 4\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenDAL.dll.config
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\Sensei98\Downloads\retake project database\Someren1920F\Someren1920F\SomerenLogic\obj\Debug\SomerenLogic.pdb
